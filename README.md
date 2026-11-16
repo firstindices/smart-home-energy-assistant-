@@ -1,14 +1,28 @@
-# Smart Home Energy Assiatnat
+# Smart Home Energy Assistant
 
-A predictive Home Energy system that helps household use electricity when it os cheapest and cleanest 
+A predictive home energy system that helps households use electricity when it's cheapest and cleanest.
 
-## What it does 
--Predicts electricity prices ahead of time
--Recommends which appliances to turn on or off to reduce cost and carbon 
-- Suppoorts communication for people with speech impairements ,so everyone can use it
-- -Designed to extend to EV charging and heat pump scheduling
 
-## Why 
-Household energy deisons are mostly guesswork.This project combines price forecasting with building-level schedulijng to make low-carbon ,low-cost choices easy.
+## What it does
+- Forecasts electricity prices ahead of time
+- Recommends when to run or switch off appliances to cut cost and carbon
+- Accessible by design: supports communication for people with speech impairments
+- Built to extend to EV charging and heat pump scheduling
 
-Note: This project started cause my landlord doesnt just turn on the heater when it's needed, Like why so hear you have it 
+## Why
+Household energy decisions are mostly guesswork. This project combines price forecasting with building-level scheduling to make low-cost, low-carbon choices easy.
+
+## Tech stack
+- Python
+
+## Getting started
+1. `git clone https://github.com/firstindices/smart-home-energy-assistant-.git`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+## Origin
+Started in a rented home where heating ran on guesswork, not need. That sparked the question: why aren't homes smarter about when they use energy?
+
+## Roadmap
+- [ ] EV charging scheduling
+- [ ] Heat pump support

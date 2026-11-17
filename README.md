@@ -13,7 +13,7 @@ A predictive home energy system that helps households use electricity when it's 
 Household energy decisions are mostly guesswork. This project combines price forecasting with building-level scheduling to make low-cost, low-carbon choices easy.
 
 ## Tech stack
-- Python
+- Python  scikitlearn
 
 ## Getting started
 1. `git clone https://github.com/firstindices/smart-home-energy-assistant-.git`
